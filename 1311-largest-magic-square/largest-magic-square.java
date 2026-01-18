@@ -2,9 +2,7 @@ class Solution {
   public int largestMagicSquare(int[][] grid) {
     final int m = grid.length;
     final int n = grid[0].length;
-    // prefixRow[i][j] := the sum of the first j numbers in the i-th row
     int[][] prefixRow = new int[m][n + 1];
-    // prefixCol[i][j] := the sum of the first j numbers in the i-th column
     int[][] prefixCol = new int[n][m + 1];
 
     for (int i = 0; i < m; ++i)
@@ -20,7 +18,6 @@ class Solution {
     return 1;
   }
 
-  // Returns true if the grid contains any magic square of size k x k.
   private boolean containsMagicSquare(int[][] grid, int[][] prefixRow, int[][] prefixCol, int k) {
     for (int i = 0; i + k - 1 < grid.length; ++i)
       for (int j = 0; j + k - 1 < grid[0].length; ++j)
@@ -29,7 +26,6 @@ class Solution {
     return false;
   }
 
-  // Returns true if grid[i..i + k)[j..j + k) is a magic square.
   private boolean isMagicSquare(int[][] grid, int[][] prefixRow, int[][] prefixCol, int i, int j,
                                 int k) {
     int diag = 0;
@@ -49,7 +45,6 @@ class Solution {
     return true;
   }
 
-  // Returns sum(grid[i][l..r]) or sum(grid[l..r][i]).
   private int getSum(int[][] prefix, int i, int l, int r) {
     return prefix[i][r + 1] - prefix[i][l];
   }
