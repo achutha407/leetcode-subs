@@ -26,3 +26,23 @@ Do **not** blindly copy these solutions for interviews or assignments.
 Understand the approach, trade-offs, and edge cases before using anything here.
 
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Hash Table
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+<!---LeetCode Topics End-->
