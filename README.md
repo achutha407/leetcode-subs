@@ -37,6 +37,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/achutha407/leetcode-subs/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/achutha407/leetcode-subs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/achutha407/leetcode-subs/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,10 +59,12 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/achutha407/leetcode-subs/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/achutha407/leetcode-subs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3886-sum-of-sortable-integers](https://github.com/achutha407/leetcode-subs/tree/master/3886-sum-of-sortable-integers) |
 ## Math
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3886-sum-of-sortable-integers](https://github.com/achutha407/leetcode-subs/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -99,4 +102,8 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Enumeration
+|  |
+| ------- |
+| [3886-sum-of-sortable-integers](https://github.com/achutha407/leetcode-subs/tree/master/3886-sum-of-sortable-integers) |
 <!---LeetCode Topics End-->
