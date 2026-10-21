@@ -106,4 +106,8 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/achutha407/leetcode-subs/tree/master/3886-sum-of-sortable-integers) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/achutha407/leetcode-subs/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
