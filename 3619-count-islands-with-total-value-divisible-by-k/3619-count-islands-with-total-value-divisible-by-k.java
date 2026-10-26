@@ -5,14 +5,8 @@ class Solution {
   
     private final int[] directions = {-1, 0, 1, 0, -1};
 
-    /**
-     * Counts the number of islands whose sum of values is divisible by k
-     * @param grid 2D array where positive values represent land
-     * @param k divisor to check island sums against
-     * @return number of islands with sum divisible by k
-     */
+
     public int countIslands(int[][] grid, int k) {
-        // Initialize grid dimensions
         this.rows = grid.length;
         this.cols = grid[0].length;
         this.grid = grid;
@@ -33,13 +27,7 @@ class Solution {
         return islandCount;
     }
 
-    /**
-     * Performs depth-first search to calculate sum of all connected land cells
-     * Marks visited cells by setting them to 0
-     * @param row current row position
-     * @param col current column position
-     * @return sum of all connected land cells forming an island
-     */
+ 
     private long dfs(int row, int col) {
         long sum = grid[row][col];
       
