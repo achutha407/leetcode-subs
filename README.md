@@ -67,6 +67,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
 | [3886-sum-of-sortable-integers](https://github.com/achutha407/leetcode-subs/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
@@ -114,6 +115,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## String
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/achutha407/leetcode-subs/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
@@ -135,4 +137,12 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [3699-number-of-zigzag-arrays-i](https://github.com/achutha407/leetcode-subs/tree/master/3699-number-of-zigzag-arrays-i) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
