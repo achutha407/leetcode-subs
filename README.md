@@ -76,6 +76,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/achutha407/leetcode-subs/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Tree
 |  |
 | ------- |
@@ -130,4 +131,8 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/achutha407/leetcode-subs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [3699-number-of-zigzag-arrays-i](https://github.com/achutha407/leetcode-subs/tree/master/3699-number-of-zigzag-arrays-i) |
 <!---LeetCode Topics End-->
