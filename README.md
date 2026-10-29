@@ -39,6 +39,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/achutha407/leetcode-subs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/achutha407/leetcode-subs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/achutha407/leetcode-subs/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/achutha407/leetcode-subs/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/achutha407/leetcode-subs/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/achutha407/leetcode-subs/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -53,11 +54,13 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/achutha407/leetcode-subs/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/achutha407/leetcode-subs/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -74,6 +77,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,6 +88,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -118,16 +123,19 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/achutha407/leetcode-subs/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/achutha407/leetcode-subs/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/achutha407/leetcode-subs/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/achutha407/leetcode-subs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
