@@ -125,6 +125,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 | [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/achutha407/leetcode-subs/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/achutha407/leetcode-subs/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -157,4 +158,16 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/achutha407/leetcode-subs/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/achutha407/leetcode-subs/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/achutha407/leetcode-subs/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
