@@ -1,4 +1,4 @@
-class Solution {
+class Solution { 
   public int[] pathsWithMaxScore(List<String> board) {
     final int MOD = 1_000_000_007;
     final int[][] DIRS = {{0, 1}, {1, 0}, {1, 1}};
