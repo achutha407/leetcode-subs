@@ -9,6 +9,7 @@ class Solution {
       suffix[i] = suffix[i + 1] + piles[i];
     return stoneGameII(suffix, 0, 1, mem);
   }
+  
   private int stoneGameII(int[] suffix, int i, int M, int[][] mem) {
     if (i + 2 * M >= suffix.length)
       return suffix[i];
