@@ -8,7 +8,7 @@ class Solution {
     for (int i = n - 2; i >= 0; --i)
       suffix[i] = suffix[i + 1] + piles[i];
     return stoneGameII(suffix, 0, 1, mem);
-  }
+  } 
 
   private int stoneGameII(int[] suffix, int i, int M, int[][] mem) {
     if (i + 2 * M >= suffix.length)
