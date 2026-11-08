@@ -32,6 +32,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Array
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/achutha407/leetcode-subs/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -92,6 +93,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/achutha407/leetcode-subs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
@@ -135,15 +137,18 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Depth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/achutha407/leetcode-subs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/achutha407/leetcode-subs/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/achutha407/leetcode-subs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/achutha407/leetcode-subs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/achutha407/leetcode-subs/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Prefix Sum
@@ -170,4 +175,8 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/achutha407/leetcode-subs/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Counting
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
