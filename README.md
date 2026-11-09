@@ -34,6 +34,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/achutha407/leetcode-subs/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/achutha407/leetcode-subs/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/achutha407/leetcode-subs/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -170,6 +171,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/achutha407/leetcode-subs/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/achutha407/leetcode-subs/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -179,4 +181,12 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/achutha407/leetcode-subs/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/achutha407/leetcode-subs/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
