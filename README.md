@@ -75,6 +75,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/achutha407/leetcode-subs/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3886-sum-of-sortable-integers](https://github.com/achutha407/leetcode-subs/tree/master/3886-sum-of-sortable-integers) |
 ## Divide and Conquer
 |  |
@@ -162,6 +163,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/achutha407/leetcode-subs/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Game Theory
 |  |
 | ------- |
