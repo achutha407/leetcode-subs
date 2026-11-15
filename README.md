@@ -33,6 +33,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/achutha407/leetcode-subs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/achutha407/leetcode-subs/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/achutha407/leetcode-subs/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -76,6 +77,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Math
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/achutha407/leetcode-subs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/achutha407/leetcode-subs/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -88,6 +90,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/achutha407/leetcode-subs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3693-climbing-stairs-ii](https://github.com/achutha407/leetcode-subs/tree/master/3693-climbing-stairs-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/achutha407/leetcode-subs/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -161,6 +164,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/achutha407/leetcode-subs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/achutha407/leetcode-subs/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
