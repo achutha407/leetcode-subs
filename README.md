@@ -40,6 +40,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/achutha407/leetcode-subs/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/achutha407/leetcode-subs/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/achutha407/leetcode-subs/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3364-minimum-positive-sum-subarray](https://github.com/achutha407/leetcode-subs/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/achutha407/leetcode-subs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/achutha407/leetcode-subs/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/achutha407/leetcode-subs/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -165,6 +166,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/achutha407/leetcode-subs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3364-minimum-positive-sum-subarray](https://github.com/achutha407/leetcode-subs/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/achutha407/leetcode-subs/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Greedy
 |  |
@@ -211,6 +213,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Sliding Window
 |  |
 | ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/achutha407/leetcode-subs/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/achutha407/leetcode-subs/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
