@@ -33,6 +33,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/achutha407/leetcode-subs/tree/master/1267-count-servers-that-communicate) |
+| [1352-product-of-the-last-k-numbers](https://github.com/achutha407/leetcode-subs/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/achutha407/leetcode-subs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/achutha407/leetcode-subs/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -84,6 +85,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/achutha407/leetcode-subs/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/achutha407/leetcode-subs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/achutha407/leetcode-subs/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/achutha407/leetcode-subs/tree/master/1927-sum-game) |
@@ -178,6 +180,7 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/achutha407/leetcode-subs/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/achutha407/leetcode-subs/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/achutha407/leetcode-subs/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/achutha407/leetcode-subs/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -242,4 +245,12 @@ Understand the approach, trade-offs, and edge cases before using anything here.
 |  |
 | ------- |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/achutha407/leetcode-subs/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/achutha407/leetcode-subs/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/achutha407/leetcode-subs/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
